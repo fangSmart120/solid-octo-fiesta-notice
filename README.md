@@ -6,7 +6,7 @@ The project's source code lives in private repositories. This public repository 
 
 | Document | Purpose |
 |----------|---------|
-| [NOTICE.md](NOTICE.md) | Third-party services and data providers used by the app, with required attributions |
+| [NOTICE.md](NOTICE.md) | Third-party services, data providers, and visual asset attributions |
 | [PRIVACY.md](PRIVACY.md) | Privacy policy — what data we process, where, and what we never collect |
 | [SUPPORT.md](SUPPORT.md) | How to get help or report a problem |
 
@@ -20,7 +20,7 @@ Claw creates structured workout playlists tailored to your training session — 
 
 ## Attribution
 
-BPM and musical key data provided by [GetSongBPM.com](https://getsongbpm.com). See [NOTICE.md](NOTICE.md) for the full list of third-party services.
+BPM and musical key data provided by [GetSongBPM.com](https://getsongbpm.com). Selected interface videos from [Pexels](https://www.pexels.com/license/); some category visuals are AI-generated. See [NOTICE.md](NOTICE.md) for the full list of third-party services and visual assets.
 
 ---
 

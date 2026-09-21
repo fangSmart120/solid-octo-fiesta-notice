@@ -1,6 +1,6 @@
 # Third-Party Notices
 
-The solid-octo-fiesta project (Claw) uses the following third-party services and data providers. This file is the canonical attribution record for the project.
+The solid-octo-fiesta project (Claw) uses the following third-party services, data providers, and visual assets. This file is the canonical attribution record for the project.
 
 ## Music catalog & playback
 
@@ -27,6 +27,41 @@ The solid-octo-fiesta project (Claw) uses the following third-party services and
 
 - BPM (tempo), musical key, and related song metadata are provided by **[GetSongBPM.com](https://getsongbpm.com)**.
 - This data is used to match songs to workout intensity (e.g., tempo-synchronized running playlists).
+
+## Visual Assets
+
+Claw uses selected visual assets from Pexels in the application interface, including workout and onboarding video backgrounds.
+
+These Pexels photos and videos are used under the [Pexels License](https://www.pexels.com/license/), which permits free use for personal and commercial purposes. Attribution is not required under the Pexels License.
+
+### Pexels Video Assets
+
+The following videos are used in Claw:
+
+- ["A Man Doing Bicep Curls"](https://www.pexels.com/video/a-man-doing-bicep-curls-6455077/)
+- ["People Dancing on a Rooftop"](https://www.pexels.com/video/people-dancing-on-a-rooftop-7502788/)
+- ["A Woman Wearing Wireless Headphones"](https://www.pexels.com/video/a-woman-wearing-a-wireless-headphones-6868321/)
+- ["A Woman Exercising on a Stationary Bike While Listening to Music"](https://www.pexels.com/video/a-woman-exercising-in-a-stationary-bike-while-listening-to-music-6388876/)
+
+The above assets are used as part of the Claw application's visual interface and are not offered, sold, or redistributed as standalone stock media.
+
+Claw does not claim endorsement by, affiliation with, or sponsorship from Pexels, the creators of the referenced media, or any persons or brands depicted in the media.
+
+For the applicable license terms and usage restrictions, please refer to the [Pexels License](https://www.pexels.com/license/).
+
+### AI-Generated Visual Assets
+
+Some visual assets used in Claw are generated using generative AI tools for the application's workout categories and user interface.
+
+These assets are original generated artwork created for Claw and are not intentionally based on or presented as any specific person, celebrity, brand, copyrighted character, or third-party artwork.
+
+AI-generated assets may include, but are not limited to, workout category backgrounds for activities such as Running, Cycling, Rowing, HIIT, Pilates, Flexibility, Walking, and Meditation.
+
+The applicable terms of the respective AI generation service apply to the generation and use of these assets.
+
+## Third-Party Rights
+
+While Claw uses visual assets in accordance with the applicable licenses, third-party rights may apply to identifiable persons, trademarks, logos, artwork, or other protected elements depicted within third-party media. Claw does not intentionally use such depicted elements to imply endorsement, sponsorship, or affiliation.
 
 ---
 
